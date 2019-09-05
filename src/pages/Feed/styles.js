@@ -1,6 +1,6 @@
 import styled from 'styled-components/native';
 
-// {Post, Header, Avatar, Name, PostImage, Description}
+// {Post, Header, Avatar, Name, (X) PostImage, Description}
 
 export const Post = styled.View`
   margin-top: 10px;
@@ -19,10 +19,6 @@ export const Avatar = styled.Image`
 export const Name = styled.Text`
   color: #333;
   font-weight: bold;
-`;
-export const PostImage = styled.Image`
-  width: 100%;
-  aspect-ratio: ${props => props.ratio};
 `;
 export const Description = styled.Text`
   padding: 15px;
