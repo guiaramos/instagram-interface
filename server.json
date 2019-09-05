@@ -165,27 +165,27 @@
     {
       "id": 1,
       "name": "garamos",
-      "avatar": "https://avatars0.githubusercontent.com/u/49703106?v=4"
+      "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
     },
     {
       "id": 2,
       "name": "abottadorable",
-      "avatar": "https://api.adorable.io/avatars/50/abott@adorable"
+      "avatar": "https://randomuser.me/api/portraits/women/18.jpg"
     },
     {
       "id": 3,
       "name": "markzuck",
-      "avatar": "https://api.adorable.io/avatars/50/mark@adorable.io"
+      "avatar": "https://randomuser.me/api/portraits/women/40.jpg"
     },
     {
       "id": 4,
       "name": "malansmith",
-      "avatar": "https://api.adorable.io/avatars/50/malan@adorable.io"
+      "avatar": "https://randomuser.me/api/portraits/women/35.jpg"
     },
     {
       "id": 5,
       "name": "peterpedigree",
-      "avatar": "https://api.adorable.io/avatars/50/peter@adorable.io"
+      "avatar": "https://randomuser.me/api/portraits/men/40.jpg"
     }
   ]
 }
